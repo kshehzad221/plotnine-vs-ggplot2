@@ -1,6 +1,0 @@
-The purpose of this Jupyter Notebook is to perform a thorough comparison of plotnine (the equivalent
-of R's ggplot2 package) written by Hassan Kibirige, against the native ggplot2 package. The 
-comparison is facilitated by using a separate module called The %load_ext magic command loads the rpy2 IPython extension into the notebook, essentially initializing the R interface and allowing the notebook to connect and pass objects between the two languages.
- the rpy2.ipython module   Python's plotnine 
-module, written by Hassan Kibirige,   the relatively new 
-and long awaited equivalent of R's ggplot2 package
